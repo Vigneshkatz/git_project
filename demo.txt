@@ -1,4 +1,5 @@
 Hello world this is a text file using git bash
 trying to use git bash
 trying to use git diff --staged
+i have change the user name
 
