@@ -14,7 +14,7 @@
   While learning new topics there should be exercises and frequent tests to ourselves this is an effective way to learn things. We should repeat until the topic comes like flow and recall the topic not reread. Finally, understanding is useless without practice and repetition. This makes mastery over the topic. 
 ### 4. Steps to improve the learning process
 - Use a timer for 25 min.
-- 5 min break and relax. 
+- Take 5 min break. 
 - Repeat these process.
 ### 5. Learn Anything in 20 hours
 - The more time you spend the more you master it.
